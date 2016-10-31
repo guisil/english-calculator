@@ -1,0 +1,1 @@
+Code created as an exercise. It is an implementation of a simple calculator that accepts some input in as words instead of numbers and operators.
